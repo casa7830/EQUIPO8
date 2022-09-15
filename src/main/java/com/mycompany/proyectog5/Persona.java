@@ -15,6 +15,10 @@ public class Persona {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hola a todos");
+        System.out.println("hola");
+        int x=4;
+        double y=3;
     }
     
 }
